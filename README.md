@@ -1,4 +1,4 @@
-# MetaRuLex
+# Russian Thesauri as Linked Open Data
 
 Open linguistic data is a good recently established trend allowing both researchers and developers in the field of natural language processing to create their own applications using high-quality dictionaries, thesauri, corpora, etc. At the same time, the published open data are stored in different formats making them difficult to be used in an efficient way without falling within vendor lock-in.
 
@@ -14,7 +14,7 @@ The three following Russian thesauri have been converted to Linked Data and made
 
 The resulted ontologies are making use of the following vocabularies: [RDFS](http://www.w3.org/TR/rdf-schema/), [OWL](http://www.w3.org/TR/owl2-overview/), [Dublin Core](http://dublincore.org/), [SKOS](http://www.w3.org/2004/02/skos/), [lemon](http://www.lemon-model.net/), [LexInfo](http://lexinfo.net/). The results are available on NLPub:
 
-* <http://depot.nlpub.ru/metarulex/>
+* <http://depot.nlpub.ru/rtlod/>
 
 _Please respect the above-mentioned licenses._
 
