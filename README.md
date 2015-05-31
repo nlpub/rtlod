@@ -22,7 +22,9 @@ _Please respect the above-mentioned licenses._
 
 Please cite our resource as follows:
 
-* Ustalov D. Russian thesauri as Linked Open Data // Computational Linguistics and Intellectual Technologies: Papers from Annual International Conference “Dialogue”. — Moscow : RSUH, 2015.
+* Ustalov, D.: [Russian Thesauri as Linked Open Data]. In: Computational Linguistics and Intellectual Technologies: papers from the Annual conference “Dialogue”. Volume 1. RGGU, Moscow (2015) 616–625. 
+
+[Russian Thesauri as Linked Open Data]: http://www.dialog-21.ru/digests/dialog2015/materials/pdf/UstalovDA.pdf
 
 ## Copyright
 
